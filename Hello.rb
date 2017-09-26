@@ -1,2 +1,3 @@
+# coding: Shift_JIS
 puts "Hello World"
-puts " Mt.Taro"
+puts " Mt.Taro –œÎ"
